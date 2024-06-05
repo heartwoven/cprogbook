@@ -1,13 +1,8 @@
 #include <stdio.h>
 
 int main(void) {
-	int variable;
-	int square;
-	int cube;
-	int fourth;
-	int fifth;
-	int result;
-	
+	int variable, square, cube, fourth, fifth, result;
+
 	printf("Enter a value for x: ");
 	scanf("%d", &variable);
 	

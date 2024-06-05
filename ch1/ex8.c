@@ -3,10 +3,7 @@
 
 int main(void)
 {
-	float loan;
-	float interest;
-	float payment;
-	float balance;
+	float loan, interest, payment, balance;
 	
 	printf("Enter amount of loan: ");
 	scanf("%f", &loan);

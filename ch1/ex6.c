@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 int main(void) {
-	int variable;
-	int result; 
+	int variable, result;
 	
 	printf("Enter a value for x: ");
 	scanf("%d", &variable);

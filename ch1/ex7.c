@@ -2,11 +2,7 @@
 
 int main(void)
 {
-	int amount;
-	int twenty;
-	int ten;
-	int five;
-	int one;
+	int amount, twenty, ten, five, one;
 	
 	printf(" Enter a dollar amount: ");
 	scanf("%d", &amount);
